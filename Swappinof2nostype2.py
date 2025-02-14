@@ -4,6 +4,6 @@ def swap(x,y):
   temp=x
   x=y
   y=temp
-  return
-print(swap(a,b))  
+  print(x,y)
+swap(a,b)
   
